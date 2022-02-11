@@ -1,0 +1,32 @@
+.nihao .el-input__inner{
+    margin-left: 50px;
+    border: 2px solid slateblue;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.logistics_window .el-textarea__inner{
+    resize: none;
+    font-family: "Microsoft YaHei UI";
+}
+
+.el-collapse-item .el-collapse-item__header{
+    height: 80px;
+}
+
+.haha .el-collapse-item .el-collapse-item__header{
+    height: 50px;
+}
+
+/*.oneinput label{*/
+/*    margin-bottom: -15px;*/
+/*}*/
+
+.box label{
+    color: #adb5ff;
+    font-weight: bold;
+}
+
